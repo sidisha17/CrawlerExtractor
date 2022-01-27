@@ -1,0 +1,11 @@
+django
+django-rest-framework
+django-rest-swagger==2.1.2
+uritemplate
+pyyaml
+django-json-field
+jsonfield
+selenium
+djangorestframework-jsonp==1.0.2
+requests
+webdriver_manager
